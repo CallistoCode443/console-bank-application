@@ -1,7 +1,5 @@
 package com.callistocode443.model;
 
-import java.util.List;
-
 public class User {
     private final int id;
     private final String login;
